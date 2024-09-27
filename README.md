@@ -2,6 +2,8 @@
 
 You can find video file this link: https://www.youtube.com/watch?v=MNn9qKG2UFI&t=94s
 
+You can find model train datasets this link: https://universe.roboflow.com/cv-2022-kyjj6/tesi/dataset/3
+
 This code allows you to count passing vehicles on the road and save their images. all you need to do is give the line coordinates of the road to the class.
 
 ![Ekran görüntüsü 2024-09-27 222234](https://github.com/user-attachments/assets/16b00f85-f54c-459c-9e86-380d07f44ab7)
