@@ -8,5 +8,5 @@ This code allows you to count passing vehicles on the road and save their images
 
 ![Ekran görüntüsü 2024-09-27 222159](https://github.com/user-attachments/assets/74c4dfe6-9429-4643-a773-a38837c6d168)
 
-![Uploading Ekran görüntüsü 2024-09-27 220619.png…]()
+![Ekran görüntüsü 2024-09-27 220619](https://github.com/user-attachments/assets/c1ecfe2d-424b-4f30-8b98-4c7c86d4b0a2)
 
